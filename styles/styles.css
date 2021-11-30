@@ -3,16 +3,17 @@
 }
 
 html {
-  margin: auto;
+  /* margin: auto; */
+  height: 100%;
 }
 
 body {
-  margin-top: 48px;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: "Helvetica";
+  font-family: "Outfit";
   color: #fff;
   background: #0D1A2D;
 }
