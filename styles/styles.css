@@ -66,6 +66,7 @@ hr {
 }
 
 .c-Ntf__image img {
+  display: block;
   object-fit: contain;
   border-radius: 8px;
   width: 100%;
